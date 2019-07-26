@@ -46,7 +46,7 @@ set_from_resource $hl		i3wm.color13 #ff0000
 
 # i3wm colours
 # class			border	backgr.	text	indicator	child_border
-client.focused		$fg-alt	$bg-alt	$hl	$fg-alt		$hl		
+client.focused		$fg-alt	$hl	$bg	$fg-alt		$hl		
 client.focused_inactive $fg-alt	$bg	$fg	$fg-alt		$fg-alt
 client.unfocused	$fg-alt	$bg	$fg	$fg-alt		$fg-alt
 client.urgent		$fg-alt	$bg	$fg	$fg-alt		$fg-alt
